@@ -1,6 +1,6 @@
 # Facial Expression Recognition (FER) Project
 
-This project implements a deep learning-based Facial Expression Recognition system using a VGG16-based architecture. The system is capable of detecting and classifying human facial expressions in real-time.
+This project implements a deep learning-based Facial Expression Recognition system using a VGG16-based architecture, CK+ dataset. The system is capable of detecting and classifying human facial expressions in real-time.
 
 ## Project Overview
 
