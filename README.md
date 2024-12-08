@@ -25,7 +25,7 @@ The model has been trained and evaluated on a facial expression dataset. Here ar
 
 The following graph shows the model's training performance:
 
-![Training Performance](Images/Training_Performance_Visualization.jpg)
+![Training Performance](Images/Training Performance Visualization.jpg)
 
 ## Project Structure
 
